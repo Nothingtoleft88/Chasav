@@ -1,0 +1,6 @@
+{
+  "name": "Charisna Saving",
+  "description": "Sebuah aplikasi pengatur keuangan imut dan lengkap yang didesain mirip dengan Money+ Cute Expense Tracker, lengkap dengan maskot lucu, anggaran, statistik, dan pencatatan harian bertema pastel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

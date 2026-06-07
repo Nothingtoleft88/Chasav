@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Floating Shiny Gold Coin -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,23 A 9 9 0 1 1 54,22.9 Z" />
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M54,23 A 7 7 0 1 1 54,22.9 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,18 A 2 2 0 1 1 52,17.9 Z" />
+
+    <!-- Piggy Bank Legs -->
+    <path
+        android:fillColor="#FF97B2"
+        android:pathData="M40,73 L40,83 A 4 4 0 0 0 48,83 L48,73 Z" />
+    <path
+        android:fillColor="#FF97B2"
+        android:pathData="M60,73 L60,83 A 4 4 0 0 0 68,83 L68,73 Z" />
+
+    <!-- Piggy Body -->
+    <path
+        android:fillColor="#FFB7C5"
+        android:pathData="M54,38 C32,38 30,73 54,73 C78,73 76,38 54,38 Z" />
+
+    <!-- Piggy Ears -->
+    <!-- Left Ear -->
+    <path
+        android:fillColor="#FF97B2"
+        android:pathData="M35,42 Q30,30 42,39 Z" />
+    <!-- Right Ear -->
+    <path
+        android:fillColor="#FF97B2"
+        android:pathData="M73,42 Q78,30 66,39 Z" />
+
+    <!-- Piggy Nose/Snout -->
+    <path
+        android:fillColor="#FF85A2"
+        android:pathData="M54,58 C49,58 48,63 54,63 C60,63 59,58 54,58 Z" />
+    <!-- Nostrils -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,60 A 1 1 0 1 1 52,59.9 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,60 A 1 1 0 1 1 56,59.9 Z" />
+
+    <!-- Piggy Eyes -->
+    <path
+        android:fillColor="#3A3A3A"
+        android:pathData="M44,49 A 2.5 3 0 1 1 44,48.9 Z" />
+    <path
+        android:fillColor="#3A3A3A"
+        android:pathData="M64,49 A 2.5 3 0 1 1 64,48.9 Z" />
+    <!-- Eyes highlights -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43.5,48 A 1 1 0 1 1 43.5,47.9 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63.5,48 A 1 1 0 1 1 63.5,47.9 Z" />
+
+    <!-- Blushing cheeks -->
+    <path
+        android:fillColor="#FF69B4"
+        android:fillType="nonZero"
+        android:pathData="M38,53 A 4 2 0 1 0 38,52.9 Z" />
+    <path
+        android:fillColor="#FF69B4"
+        android:fillType="nonZero"
+        android:pathData="M70,53 A 4 2 0 1 0 70,52.9 Z" />
+
+    <!-- Sparkles -->
+    <path
+        android:fillColor="#FFF"
+        android:pathData="M22,25 L24,27 L22,29 L20,27 Z" />
+    <path
+        android:fillColor="#FFF"
+        android:pathData="M84,33 L86,35 L84,37 L82,35 Z" />
+    <path
+        android:fillColor="#FFF"
+        android:pathData="M78,16 L79,17.5 L78,19 L77,17.5 Z" />
+
+</vector>
